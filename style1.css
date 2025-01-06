@@ -1,0 +1,13 @@
+.up{
+    padding-bottom: 6px;
+    padding-top: 5px;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+}
+.button{
+ background-color: gainsboro;
+}
+.searchbtn{
+    background-color: antiquewhite;
+}
